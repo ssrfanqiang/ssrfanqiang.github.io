@@ -1,4 +1,4 @@
-# SSR翻墙 - 4月1日19M/S|免费V2ray节点/Clash节点/Shadowrocket节点/Singbox节点/SSR节点节点推荐，SSR梯子购买推荐  更新时间 2026-04-01 10:28:30
+# SSR翻墙 - 4月12日18.2M/S|免费Singbox节点/V2ray节点/Clash节点/Shadowrocket节点/SSR节点节点推荐，SSR梯子购买推荐  更新时间 2026-04-12 08:37:57
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://ssrfanqiang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://ssrfanqiang.github.io/uploads/2026/04/0-20260401.yaml
-- https://ssrfanqiang.github.io/uploads/2026/04/1-20260401.yaml
-- https://ssrfanqiang.github.io/uploads/2026/04/2-20260401.yaml
-- https://ssrfanqiang.github.io/uploads/2026/04/3-20260401.yaml
-- https://ssrfanqiang.github.io/uploads/2026/04/4-20260401.yaml
+- https://ssrfanqiang.github.io/uploads/2026/04/0-20260412.yaml
+- https://ssrfanqiang.github.io/uploads/2026/04/1-20260412.yaml
+- https://ssrfanqiang.github.io/uploads/2026/04/2-20260412.yaml
+- https://ssrfanqiang.github.io/uploads/2026/04/3-20260412.yaml
+- https://ssrfanqiang.github.io/uploads/2026/04/4-20260412.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://ssrfanqiang.github.io/uploads/2026/04/0-20260401.txt
-- https://ssrfanqiang.github.io/uploads/2026/04/1-20260401.txt
-- https://ssrfanqiang.github.io/uploads/2026/04/2-20260401.txt
-- https://ssrfanqiang.github.io/uploads/2026/04/3-20260401.txt
-- https://ssrfanqiang.github.io/uploads/2026/04/4-20260401.txt
+- https://ssrfanqiang.github.io/uploads/2026/04/0-20260412.txt
+- https://ssrfanqiang.github.io/uploads/2026/04/1-20260412.txt
+- https://ssrfanqiang.github.io/uploads/2026/04/2-20260412.txt
+- https://ssrfanqiang.github.io/uploads/2026/04/3-20260412.txt
+- https://ssrfanqiang.github.io/uploads/2026/04/4-20260412.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://ssrfanqiang.github.io/uploads/2026/04/20260401.json
+- https://ssrfanqiang.github.io/uploads/2026/04/20260412.json
 
 ## 更多Clash节点订阅 ：
 
